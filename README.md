@@ -40,7 +40,7 @@ To run the frontend application:
 
 1. Navigate to the frontend application directory:
    ```
-   cd /path/to/frontend
+   cd ./SRI_frontend
    ```
 2. Install the necessary dependencies:
    ```
